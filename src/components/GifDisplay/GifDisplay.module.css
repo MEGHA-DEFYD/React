@@ -1,0 +1,15 @@
+.gifContainer {
+    width: 400px;
+   
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .gifImage {
+    border-radius: 55px;
+    width: 450px;
+    height: 611px;
+  }
+  

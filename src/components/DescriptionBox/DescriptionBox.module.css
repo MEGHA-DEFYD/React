@@ -1,0 +1,36 @@
+
+  .descriptionContainer {
+    text-align: center;
+    padding: 20px;
+    border-radius: 60px;
+  }
+  
+  .descriptionImage {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 15px;
+    color: #fbfbfb;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #fbfbfb;
+  }
+  
+  .description {
+    font-size: 1rem;
+    margin: 15px auto;
+    max-width: 600px;
+    color: #fbfbfb;
+  }
+  

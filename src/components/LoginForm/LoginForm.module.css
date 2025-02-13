@@ -1,0 +1,45 @@
+.loginContainer {
+    width: 350px;
+   height : 400px;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .subtext {
+    color: gray;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .loginButton {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .loginButton:hover {
+    background-color: #0056b3;
+  }
+  
+  .registerText {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .registerLink {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
